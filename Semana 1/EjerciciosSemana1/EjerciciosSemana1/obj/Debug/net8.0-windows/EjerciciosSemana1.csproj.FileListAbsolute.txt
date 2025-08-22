@@ -1,0 +1,16 @@
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\bin\Debug\net8.0-windows\EjerciciosSemana1.exe
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\bin\Debug\net8.0-windows\EjerciciosSemana1.deps.json
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\bin\Debug\net8.0-windows\EjerciciosSemana1.runtimeconfig.json
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\bin\Debug\net8.0-windows\EjerciciosSemana1.dll
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\bin\Debug\net8.0-windows\EjerciciosSemana1.pdb
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.Form1.resources
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.csproj.GenerateResource.cache
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.AssemblyInfoInputs.cache
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.AssemblyInfo.cs
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.csproj.CoreCompileInputs.cache
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.dll
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\refint\EjerciciosSemana1.dll
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.pdb
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\EjerciciosSemana1.genruntimeconfig.cache
+D:\Programacion C#\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows\ref\EjerciciosSemana1.dll
