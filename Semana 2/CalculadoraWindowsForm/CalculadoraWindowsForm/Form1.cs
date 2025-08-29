@@ -57,15 +57,66 @@ namespace CalculadoraWindowsForm
                 case "+":
                     Display.Text = $"{numero1 + numero2}";
                 break;
+                
                 case "-":
                     Display.Text = $"{numero1 - numero2}";
-                    break;
+                break;
+                
                 case "x":
                     Display.Text = $"{numero1 * numero2}";
-                    break;
+                break;
+                
                 case "/":
                     Display.Text = numero2 != 0 ? (numero1 / numero2).ToString() : "SYNTAX ERROR";
-                    break;
+                break;
+                
+                case "^":
+                break;
+                
+                case "Log":
+                break;
+                
+                case "√":
+                break;
+
+                case "sin":            
+                break;
+
+                case "π":
+                break;
+
+                case "cos":
+                break;
+
+                case "%":
+                break;
+
+                case "!":
+                break;
+
+                case "M+":
+                break;
+
+                case "M-":
+                break;
+
+                case "MC":
+                break;
+
+                case "MR":
+                break;
+            }
+        }
+
+        private void BtBa_Click(object sender, EventArgs e)
+        {
+            if (Display.Text.Length == 1)
+            {
+                Display.Text = "0";
+            }
+            else 
+            {
+                Display.Text = Display.Text.Substring(0, Display.Text.Length - 1);
             }
         }
     }
