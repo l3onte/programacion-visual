@@ -115,8 +115,6 @@ namespace EjerciciosSemana1
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information
                 );
-
-                Close();
             }
         }
 

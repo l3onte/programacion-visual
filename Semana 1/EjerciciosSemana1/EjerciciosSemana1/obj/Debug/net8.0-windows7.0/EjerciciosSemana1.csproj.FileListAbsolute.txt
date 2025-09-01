@@ -30,3 +30,4 @@ D:\programacion-visual\Semana 1\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\ne
 D:\programacion-visual\Semana 1\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows7.0\EjerciciosSemana1.pdb
 D:\programacion-visual\Semana 1\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows7.0\EjerciciosSemana1.genruntimeconfig.cache
 D:\programacion-visual\Semana 1\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows7.0\ref\EjerciciosSemana1.dll
+D:\programacion-visual\Semana 1\EjerciciosSemana1\EjerciciosSemana1\obj\Debug\net8.0-windows7.0\EjerciciosSemana1.sourcelink.json
