@@ -1,0 +1,11 @@
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe.config
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.exe
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\bin\Debug\CalculadoraWindowsForm.pdb
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.AssemblyReference.cache
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Form1.resources
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.Properties.Resources.resources
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.GenerateResource.cache
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.csproj.CoreCompileInputs.cache
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.exe
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.pdb
+D:\Programacion C#\CalculadoraWindowsForm\CalculadoraWindowsForm\obj\Debug\CalculadoraWindowsForm.exe.config
