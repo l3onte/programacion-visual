@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F45E080D-3452-4BAA-8623-D321E49F61E1}</ProjectGuid>
+    <ProjectGuid>{D1DB2774-C8F9-4DB0-B549-448B620E7D05}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>GestorTareas</RootNamespace>
     <AssemblyName>GestorTareas</AssemblyName>
@@ -46,14 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="GestorDeTareas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="GestorDeTareas.Designer.cs">
+      <DependentUpon>GestorDeTareas.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GestorDeTareas.resx">
+      <DependentUpon>GestorDeTareas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

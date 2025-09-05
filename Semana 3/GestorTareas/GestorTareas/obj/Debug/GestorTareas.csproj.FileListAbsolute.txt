@@ -1,0 +1,11 @@
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe.config
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\bin\Debug\GestorTareas.exe
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\bin\Debug\GestorTareas.pdb
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.AssemblyReference.cache
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Form1.resources
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.Properties.Resources.resources
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.GenerateResource.cache
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.csproj.CoreCompileInputs.cache
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.pdb
+D:\programacion-visual\Semana 3\GestorTareas\GestorTareas\obj\Debug\GestorTareas.exe.config
