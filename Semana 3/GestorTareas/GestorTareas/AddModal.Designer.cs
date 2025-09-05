@@ -129,7 +129,7 @@
             this.btnSave.Name = "btnSave";
             this.btnSave.Size = new System.Drawing.Size(270, 45);
             this.btnSave.TabIndex = 10;
-            this.btnSave.Text = "Agregar";
+            this.btnSave.Text = "Guardar";
             this.btnSave.UseVisualStyleBackColor = true;
             // 
             // AddModal
