@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\programacion-visual\\Semana 3\\GestorTareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|D:\\programacion-visual\\Semana 3\\GestorTareas\\gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|d:\\programacion-visual\\semana 3\\gestortareas\\gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|D:\\programacion-visual\\Semana 3\\GestorTareas\\gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|D:\\programacion-visual\\Semana 3\\GestorTareas\\gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\gestordetareas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|d:\\programacion-visual\\semana 3\\gestortareas\\gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|D:\\programacion-visual\\Semana 3\\GestorTareas\\gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\addmodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|d:\\programacion-visual\\semana 3\\gestortareas\\gestortareas\\gestordetareas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1DB2774-C8F9-4DB0-B549-448B620E7D05}|GestorTareas\\GestorTareas.csproj|solutionrelative:gestortareas\\gestordetareas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,8 +33,17 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GestorDeTareas.Designer.cs",
+              "DocumentMoniker": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.Designer.cs",
+              "RelativeDocumentMoniker": "GestorTareas\\GestorDeTareas.Designer.cs",
+              "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.Designer.cs",
+              "RelativeToolTip": "GestorTareas\\GestorDeTareas.Designer.cs",
+              "ViewState": "AgIAANkAAAAAAAAAAAAwwLgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:07:03.333Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,14 +53,14 @@
               "RelativeDocumentMoniker": "GestorTareas\\AddModal.cs",
               "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\AddModal.cs",
               "RelativeToolTip": "GestorTareas\\AddModal.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T06:13:38.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AddModal.cs [Design]",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\AddModal.cs",
               "RelativeDocumentMoniker": "GestorTareas\\AddModal.cs",
@@ -63,21 +76,21 @@
               "Title": "GestorDeTareas.cs",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs",
               "RelativeDocumentMoniker": "GestorTareas\\GestorDeTareas.cs",
-              "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs*",
-              "RelativeToolTip": "GestorTareas\\GestorDeTareas.cs*",
-              "ViewState": "AgIAAOsAAAAAAAAAAAAQwPAAAAAdAAAAAAAAAA==",
+              "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs",
+              "RelativeToolTip": "GestorTareas\\GestorDeTareas.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAkwIwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T06:07:11.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GestorDeTareas.cs [Design]",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs",
               "RelativeDocumentMoniker": "GestorTareas\\GestorDeTareas.cs",
-              "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs [Design]*",
-              "RelativeToolTip": "GestorTareas\\GestorDeTareas.cs [Design]*",
+              "ToolTip": "D:\\programacion-visual\\Semana 3\\GestorTareas\\GestorTareas\\GestorDeTareas.cs [Design]",
+              "RelativeToolTip": "GestorTareas\\GestorDeTareas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T04:59:20.821Z",
               "EditorCaption": " [Design]"

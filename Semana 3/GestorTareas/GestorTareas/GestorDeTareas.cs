@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Forms;
@@ -25,7 +26,6 @@ namespace GestorTareas
             dgvTareas.MultiSelect = false;
         }
 
-        // ---------------- FILTROS ----------------
 
         private void AplicarFiltros()
         {
@@ -111,7 +111,6 @@ namespace GestorTareas
             }
         }
 
-        // ---------------- CARGA DE FORM ----------------
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -125,6 +124,7 @@ namespace GestorTareas
                     Text = "Eliminar",
                     UseColumnTextForButtonValue = true
                 };
+                btnEliminar.DefaultCellStyle.BackColor = Color.LightCoral;
                 dgvTareas.Columns.Add(btnEliminar);
             }
 
@@ -138,11 +138,10 @@ namespace GestorTareas
                     Text = "Editar",
                     UseColumnTextForButtonValue = true
                 };
+                btnEditar.DefaultCellStyle.BackColor = Color.PaleGoldenrod;
                 dgvTareas.Columns.Add(btnEditar);
             }
         }
-
-        // ---------------- EVENTO CLICK CELDA ----------------
 
         private void DataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -195,7 +194,6 @@ namespace GestorTareas
             }
         }
 
-        // ---------------- MODAL AGREGAR ----------------
 
         private void ModalButon_Click(object sender, EventArgs e)
         {
@@ -218,8 +216,6 @@ namespace GestorTareas
                 }
             }
         }
-
-        // ---------------- BOTONES FILTRAR ----------------
 
         private void btnBuscarCodigo_Click(object sender, EventArgs e)
         {
