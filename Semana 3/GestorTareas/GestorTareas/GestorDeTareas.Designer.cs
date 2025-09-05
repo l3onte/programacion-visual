@@ -31,12 +31,12 @@
             this.ModalButon = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.dgvTareas = new System.Windows.Forms.DataGridView();
-            this.lblCodigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblNombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblDescripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblFecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblLugar = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.lblEstado = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colCodigo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colNombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colDescripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colFecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colLugar = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colEstado = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dgvTareas)).BeginInit();
             this.SuspendLayout();
             // 
@@ -48,6 +48,7 @@
             this.ModalButon.TabIndex = 0;
             this.ModalButon.Text = "Agregar Tarea";
             this.ModalButon.UseVisualStyleBackColor = true;
+            this.ModalButon.Click += new System.EventHandler(this.ModalButon_Click);
             // 
             // textBox1
             // 
@@ -60,49 +61,49 @@
             // 
             this.dgvTareas.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvTareas.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.lblCodigo,
-            this.lblNombre,
-            this.lblDescripcion,
-            this.lblFecha,
-            this.lblLugar,
-            this.lblEstado});
+            this.colCodigo,
+            this.colNombre,
+            this.colDescripcion,
+            this.colFecha,
+            this.colLugar,
+            this.colEstado});
             this.dgvTareas.Location = new System.Drawing.Point(30, 100);
             this.dgvTareas.Name = "dgvTareas";
             this.dgvTareas.Size = new System.Drawing.Size(843, 294);
             this.dgvTareas.TabIndex = 2;
             this.dgvTareas.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.DataGridView1_CellClick);
             // 
-            // lblCodigo
+            // colCodigo
             // 
-            this.lblCodigo.HeaderText = "Codigo";
-            this.lblCodigo.Name = "lblCodigo";
+            this.colCodigo.HeaderText = "Codigo";
+            this.colCodigo.Name = "colCodigo";
             // 
-            // lblNombre
+            // colNombre
             // 
-            this.lblNombre.HeaderText = "Nombre";
-            this.lblNombre.Name = "lblNombre";
+            this.colNombre.HeaderText = "Nombre";
+            this.colNombre.Name = "colNombre";
             // 
-            // lblDescripcion
+            // colDescripcion
             // 
-            this.lblDescripcion.HeaderText = "Descripcion";
-            this.lblDescripcion.Name = "lblDescripcion";
+            this.colDescripcion.HeaderText = "Descripcion";
+            this.colDescripcion.Name = "colDescripcion";
             // 
-            // lblFecha
+            // colFecha
             // 
-            this.lblFecha.HeaderText = "Fecha";
-            this.lblFecha.Name = "lblFecha";
+            this.colFecha.HeaderText = "Fecha";
+            this.colFecha.Name = "colFecha";
             // 
-            // lblLugar
+            // colLugar
             // 
-            this.lblLugar.HeaderText = "Lugar";
-            this.lblLugar.Name = "lblLugar";
+            this.colLugar.HeaderText = "Lugar";
+            this.colLugar.Name = "colLugar";
             // 
-            // lblEstado
+            // colEstado
             // 
-            this.lblEstado.HeaderText = "Estado";
-            this.lblEstado.Name = "lblEstado";
+            this.colEstado.HeaderText = "Estado";
+            this.colEstado.Name = "colEstado";
             // 
-            // Form1
+            // GestorDeTareas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -110,8 +111,8 @@
             this.Controls.Add(this.dgvTareas);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.ModalButon);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "GestorDeTareas";
+            this.Text = "Gestor de Tareas";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgvTareas)).EndInit();
             this.ResumeLayout(false);
@@ -124,12 +125,12 @@
         private System.Windows.Forms.Button ModalButon;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.DataGridView dgvTareas;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblCodigo;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblNombre;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblDescripcion;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblFecha;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblLugar;
-        private System.Windows.Forms.DataGridViewTextBoxColumn lblEstado;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colCodigo;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colNombre;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colDescripcion;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colFecha;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colLugar;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colEstado;
     }
 }
 

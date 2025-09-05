@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddModal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddModal.Designer.cs">
+      <DependentUpon>AddModal.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestorDeTareas.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddModal.resx">
+      <DependentUpon>AddModal.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GestorDeTareas.resx">
       <DependentUpon>GestorDeTareas.cs</DependentUpon>
     </EmbeddedResource>
