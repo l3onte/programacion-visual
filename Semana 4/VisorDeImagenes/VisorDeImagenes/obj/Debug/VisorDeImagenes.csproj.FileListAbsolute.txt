@@ -1,0 +1,11 @@
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe.config
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.exe
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\bin\Debug\VisorDeImagenes.pdb
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.AssemblyReference.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Form1.resources
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.Properties.Resources.resources
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.GenerateResource.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.csproj.CoreCompileInputs.cache
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.pdb
+D:\programacion-visual\Semana 4\VisorDeImagenes\VisorDeImagenes\obj\Debug\VisorDeImagenes.exe.config
