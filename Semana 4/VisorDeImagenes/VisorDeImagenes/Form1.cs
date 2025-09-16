@@ -12,20 +12,16 @@ namespace VisorDeImagenes
         List<string> listaImagenes = new List<string>();
         int indiceActual = -1;
 
-        // estado centralizado
         private bool modoGris = false;
-        private bool sincronizando = false; // evita recursividad al actualizar Checked
-
+        private bool sincronizando = false;
         public Form1()
         {
             InitializeComponent();
             CargarImagenes();
 
-            // Asegurarnos que los ToolStripButtons actúen como "toggle"
-            toolStripButton1.CheckOnClick = true; // botón "Normal"
-            toolStripButton2.CheckOnClick = true; // botón "Escala de grises"
+            toolStripButton1.CheckOnClick = true; 
+            toolStripButton2.CheckOnClick = true;
 
-            // Eventos (si algunos ya los tenías asignados en designer, está bien reasignarlos aquí)
             girar90ALaDerechaToolStripMenuItem.Click += rotarDerecha_Click;
             girar90ALaIzquierdaToolStripMenuItem1.Click += rotarIzquierda_Click;
             copiarToolStripMenuItem.Click += copiar_Click;
@@ -34,7 +30,6 @@ namespace VisorDeImagenes
             toolStripButton1.Click += toolStripButton1_Click; // Normal
             toolStripButton2.Click += toolStripButton2_Click; // Grises
 
-            // CheckBoxes (si usas Click para evitar bucle CheckedChanged)
             checkBox1.Click += (s, e) => SetMode(false); // Normal
             checkBox2.Click += (s, e) => SetMode(true);  // Escala de grises
 
@@ -57,10 +52,9 @@ namespace VisorDeImagenes
                 }
             }
 
-            // si hay imágenes, mostrar la primera y garantizar estado inicial (normal)
             if (listaImagenes.Count > 0)
             {
-                SetMode(false); // arranca en Normal por defecto
+                SetMode(false); 
                 MostrarImagen(0);
             }
         }
@@ -72,7 +66,6 @@ namespace VisorDeImagenes
             indiceActual = indice;
             string archivoSeleccionado = listaImagenes[indice];
 
-            // liberar imagen previa
             if (pictureBox1.Image != null)
             {
                 var prev = pictureBox1.Image;
@@ -80,19 +73,15 @@ namespace VisorDeImagenes
                 prev.Dispose();
             }
 
-            // cargar imagen sin dejar archivo bloqueado
             using (var temp = Image.FromFile(archivoSeleccionado))
             {
-                // clonamos a Bitmap para trabajar con ella
                 Image original = new Bitmap(temp);
 
-                // aplicar el modo actual
                 if (modoGris)
                     pictureBox1.Image = ConvertirAGris(original);
                 else
                     pictureBox1.Image = new Bitmap(original);
 
-                // guardamos/clonamos la original en imageOriginal si la necesitas en otras operaciones
                 original.Dispose();
             }
 
@@ -120,37 +109,30 @@ namespace VisorDeImagenes
             return bmp;
         }
 
-        // Método centralizado que pone el modo y sincroniza todos los controles
         private void SetMode(bool gris)
         {
-            // si ya estamos sincronizando, salir (evita loops)
             if (sincronizando) return;
 
             sincronizando = true;
             modoGris = gris;
 
-            // actualizar CheckBoxes
-            checkBox2.Checked = gris;   // suponiendo checkBox2 = Escala de grises
-            checkBox1.Checked = !gris;  // suponiendo checkBox1 = Normal
+            checkBox2.Checked = gris;   
+            checkBox1.Checked = !gris;  
 
-            // actualizar ToolStripButtons
             toolStripButton2.Checked = gris;
             toolStripButton1.Checked = !gris;
 
-            // actualizar MenuStrip (si existen)
             if (this.normalToolStripMenuItem != null)
                 normalToolStripMenuItem.Checked = !gris;
             if (this.escalaDeGrisesToolStripMenuItem != null)
                 escalaDeGrisesToolStripMenuItem.Checked = gris;
 
-            // refrescar la imagen actual con el nuevo modo
             if (indiceActual >= 0)
                 MostrarImagen(indiceActual);
 
             sincronizando = false;
         }
 
-        // ---------- Handlers auxiliares ----------
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             MostrarImagen(comboBox1.SelectedIndex);
@@ -176,22 +158,16 @@ namespace VisorDeImagenes
             MostrarImagen(listaImagenes.Count - 1);
         }
 
-        // ToolStripButton "Normal"
         private void toolStripButton1_Click(object sender, EventArgs e)
         {
-            // toolStripButton1.CheckOnClick = true hace que toolStripButton1.Checked ya cambie,
-            // pero centralizamos por si se quiere forzar un estado:
             SetMode(false);
         }
 
-        // ToolStripButton "Grises"
         private void toolStripButton2_Click(object sender, EventArgs e)
         {
-            // togglea según el Checked actual del botón
             SetMode(toolStripButton2.Checked);
         }
 
-        // Rotaciones y copiar (igual que tenías)
         private void rotarIzquierda_Click(object sender, EventArgs e)
         {
             if (pictureBox1.Image == null) return;
@@ -215,7 +191,6 @@ namespace VisorDeImagenes
             }
         }
 
-        // Modos de visualización (centrar/ajustar/zoom) si los mantienes
         private void checkBox3_Click(object sender, EventArgs e)
         {
             checkBox4.Checked = false;
