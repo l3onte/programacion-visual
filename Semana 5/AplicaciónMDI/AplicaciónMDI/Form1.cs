@@ -27,7 +27,7 @@ namespace AplicaciónMDI
 
         public static class DatosCompartidos
         {
-            public static Estudiante EstudianteActual { get; set; }
+            public static List<Estudiante> ListaEstudiantes { get; set; } = new List<Estudiante>();
         }
 
         public Form1()
@@ -37,6 +37,15 @@ namespace AplicaciónMDI
 
         private void toolStripLabel1_Click(object sender, EventArgs e)
         {
+            foreach (Form f in this.MdiChildren)
+            {
+                if (f is Form2)
+                {
+                    f.Activate();
+                    return;
+                }
+            }
+
             Form2 AddStudentsView = new Form2();
             AddStudentsView.MdiParent = this;
             AddStudentsView.Show();
@@ -44,9 +53,34 @@ namespace AplicaciónMDI
 
         private void toolStripLabel2_Click(object sender, EventArgs e)
         {
+            foreach (Form f in this.MdiChildren)
+            {
+                if (f is Form3)
+                {
+                    f.Activate();
+                    return;
+                }
+            }
+
             Form3 ShowStudentsView = new Form3();
             ShowStudentsView.MdiParent = this;
             ShowStudentsView.Show();    
+        }
+
+        private void toolStripLabel3_Click(object sender, EventArgs e)
+        {
+            foreach (Form f in this.MdiChildren)
+            {
+                if (f is Form4)
+                {
+                    f.Activate();
+                    return;
+                }
+            }
+
+            Form4 chartView = new Form4();
+            chartView.MdiParent = this;
+            chartView.Show();
         }
     }
 }

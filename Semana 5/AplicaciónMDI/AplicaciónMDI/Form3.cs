@@ -19,21 +19,27 @@ namespace AplicaciónMDI
 
         private void Form3_Load(object sender, EventArgs e)
         {
-            if (Form1.DatosCompartidos.EstudianteActual != null)
+            dgvDatos.ColumnCount = 3;
+            dgvDatos.Columns[0].Name = "Carnet";
+            dgvDatos.Columns[1].Name = "Nombre";
+            dgvDatos.Columns[2].Name = "Promedio";
+
+            dgvDatos.Rows.Clear();
+
+            if (Form1.DatosCompartidos.ListaEstudiantes.Count > 0)
             {
-                search_carnet.Text = Form1.DatosCompartidos.EstudianteActual.Carnet;
-                search_nombre.Text = Form1.DatosCompartidos.EstudianteActual.Nombre;
-
-                dgvDatos.Rows.Clear();
-
-                foreach (var asign in Form1.DatosCompartidos.EstudianteActual.Asignaturas)
+                foreach (var est in Form1.DatosCompartidos.ListaEstudiantes)
                 {
-                    dgvDatos.Rows.Add(asign.Nombre, asign.Nota);
+                    double promedio = est.Asignaturas.Count > 0
+                        ? est.Asignaturas.Average(a => a.Nota)
+                        : 0;
+
+                    dgvDatos.Rows.Add(est.Carnet, est.Nombre, promedio);
                 }
             }
             else
             {
-                MessageBox.Show("No hay datos de estudiante cargados.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("No hay estudiantes registrados.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
     }

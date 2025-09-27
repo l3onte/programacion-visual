@@ -11,3 +11,4 @@ D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\Aplicaci
 D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.exe.config
 D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form2.resources
 D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form3.resources
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form4.resources

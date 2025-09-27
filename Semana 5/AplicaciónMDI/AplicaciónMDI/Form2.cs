@@ -56,7 +56,7 @@ namespace AplicaciónMDI
                 }
             }
 
-            Form1.DatosCompartidos.EstudianteActual = estudiante;
+            Form1.DatosCompartidos.ListaEstudiantes.Add(estudiante);
             MessageBox.Show("Datos guardados correctamente", "Exito", MessageBoxButtons.OK, MessageBoxIcon.Information);
             this.Close();
         }

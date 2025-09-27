@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\aplicaci\u00F3nmdi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|d:\\programacion-visual\\semana 5\\aplicaci\u00F3nmdi\\aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A38951-3614-4709-83D3-76E40B532ACE}|Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI.csproj|solutionrelative:aplicaci\u00F3nmdi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +46,57 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form1.cs",
+              "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs [Design]",
+              "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:46:50.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form4.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form4.cs",
+              "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form4.cs",
+              "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form4.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:45:09.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form4.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form4.cs",
+              "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form4.cs [Design]",
+              "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:42:15.214Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs",
+              "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form1.cs",
+              "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs",
+              "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAewFIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T17:16:01.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Form3.cs [Design]",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form3.cs",
               "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form3.cs",
@@ -46,39 +108,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs",
-              "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form1.cs",
-              "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form1.cs",
-              "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T17:16:01.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form2.cs",
               "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form2.cs",
               "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form2.cs",
               "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T17:15:47.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Form3.cs",
               "DocumentMoniker": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form3.cs",
               "RelativeDocumentMoniker": "Aplicaci\u00F3nMDI\\Form3.cs",
               "ToolTip": "D:\\programacion-visual\\Semana 5\\Aplicaci\u00F3nMDI\\Aplicaci\u00F3nMDI\\Form3.cs",
               "RelativeToolTip": "Aplicaci\u00F3nMDI\\Form3.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T17:15:53.974Z",
               "EditorCaption": ""
