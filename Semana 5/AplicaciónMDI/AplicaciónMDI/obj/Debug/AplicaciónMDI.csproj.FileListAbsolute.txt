@@ -1,0 +1,13 @@
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\bin\Debug\AplicaciónMDI.exe.config
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\bin\Debug\AplicaciónMDI.exe
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\bin\Debug\AplicaciónMDI.pdb
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.csproj.AssemblyReference.cache
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form1.resources
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Properties.Resources.resources
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.csproj.GenerateResource.cache
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.csproj.CoreCompileInputs.cache
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.exe
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.pdb
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.exe.config
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form2.resources
+D:\programacion-visual\Semana 5\AplicaciónMDI\AplicaciónMDI\obj\Debug\AplicaciónMDI.Form3.resources
